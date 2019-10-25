@@ -1,0 +1,14 @@
+c:\users\danis\source\repos\Question1\Question1\bin\Debug\Question1.exe.config
+c:\users\danis\source\repos\Question1\Question1\bin\Debug\Question1.exe
+c:\users\danis\source\repos\Question1\Question1\bin\Debug\Question1.pdb
+c:\users\danis\source\repos\Question1\Question1\obj\Debug\Question1.csprojAssemblyReference.cache
+c:\users\danis\source\repos\Question1\Question1\obj\Debug\Question1.csproj.CoreCompileInputs.cache
+c:\users\danis\source\repos\Question1\Question1\obj\Debug\Question1.exe
+c:\users\danis\source\repos\Question1\Question1\obj\Debug\Question1.pdb
+C:\Users\danis\Desktop\newsClip\Question1\Question1\bin\Debug\Question1.exe.config
+C:\Users\danis\Desktop\newsClip\Question1\Question1\bin\Debug\Question1.exe
+C:\Users\danis\Desktop\newsClip\Question1\Question1\bin\Debug\Question1.pdb
+C:\Users\danis\Desktop\newsClip\Question1\Question1\obj\Debug\Question1.csprojAssemblyReference.cache
+C:\Users\danis\Desktop\newsClip\Question1\Question1\obj\Debug\Question1.csproj.CoreCompileInputs.cache
+C:\Users\danis\Desktop\newsClip\Question1\Question1\obj\Debug\Question1.exe
+C:\Users\danis\Desktop\newsClip\Question1\Question1\obj\Debug\Question1.pdb
