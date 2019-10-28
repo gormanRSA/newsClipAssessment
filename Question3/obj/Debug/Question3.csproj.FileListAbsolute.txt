@@ -1,0 +1,9 @@
+C:\Users\danis\source\repos\Question3\bin\Debug\newsclipDB.mdf
+C:\Users\danis\source\repos\Question3\bin\Debug\newsclipDB_log.ldf
+C:\Users\danis\source\repos\Question3\bin\Debug\Question3.exe.config
+C:\Users\danis\source\repos\Question3\bin\Debug\Question3.exe
+C:\Users\danis\source\repos\Question3\bin\Debug\Question3.pdb
+C:\Users\danis\source\repos\Question3\obj\Debug\Question3.csprojAssemblyReference.cache
+C:\Users\danis\source\repos\Question3\obj\Debug\Question3.csproj.CoreCompileInputs.cache
+C:\Users\danis\source\repos\Question3\obj\Debug\Question3.exe
+C:\Users\danis\source\repos\Question3\obj\Debug\Question3.pdb

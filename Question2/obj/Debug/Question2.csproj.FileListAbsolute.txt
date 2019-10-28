@@ -1,0 +1,16 @@
+C:\Users\danis\source\repos\Question2\bin\Debug\Question2.exe.config
+C:\Users\danis\source\repos\Question2\bin\Debug\Question2.exe
+C:\Users\danis\source\repos\Question2\bin\Debug\Question2.pdb
+C:\Users\danis\source\repos\Question2\obj\Debug\Question2.csprojAssemblyReference.cache
+C:\Users\danis\source\repos\Question2\obj\Debug\MainWindow.g.cs
+C:\Users\danis\source\repos\Question2\obj\Debug\App.g.cs
+C:\Users\danis\source\repos\Question2\obj\Debug\Question2_MarkupCompile.cache
+C:\Users\danis\source\repos\Question2\obj\Debug\Question2_MarkupCompile.lref
+C:\Users\danis\source\repos\Question2\obj\Debug\MainWindow.baml
+C:\Users\danis\source\repos\Question2\obj\Debug\Question2.g.resources
+C:\Users\danis\source\repos\Question2\obj\Debug\Question2.csproj.CoreCompileInputs.cache
+C:\Users\danis\source\repos\Question2\obj\Debug\Question2.exe
+C:\Users\danis\source\repos\Question2\obj\Debug\Question2.pdb
+C:\Users\danis\source\repos\Question2\bin\Debug\newsclipDB.mdf
+C:\Users\danis\source\repos\Question2\bin\Debug\newsclipDB_log.ldf
+C:\Users\danis\source\repos\Question2\obj\Debug\Question2_Content.g.cs
